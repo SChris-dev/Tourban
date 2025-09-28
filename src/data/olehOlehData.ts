@@ -14,9 +14,9 @@ export const olehOlehData: OlehOlehItem[] = [
     deskripsi: "Batik khas Tuban dengan motif gedog dan corak tradisional yang mencerminkan kearifan lokal.",
     deskripsiDetail: "Batik Tuban terkenal dengan teknik pewarnaan alami menggunakan indigo dan soga. Motif-motif yang khas seperti gedog, parang, dan flora fauna menjadi ciri khasnya.",
     images: [
-      "src/assets/images/oleh-oleh/batik-tuban-1.jpg",
-      "src/assets/images/oleh-oleh/batik-tuban-2.jpg",
-      "src/assets/images/oleh-oleh/batik-tuban-3.jpg"
+      "/images/oleh-oleh/batik-tuban-1.jpg",
+      "/images/oleh-oleh/batik-tuban-2.jpg",
+      "/images/oleh-oleh/batik-tuban-3.jpg"
     ],
     tempatBeli: [
       "Sentra Batik Gedog Tuban - Desa Kerek",
@@ -30,9 +30,9 @@ export const olehOlehData: OlehOlehItem[] = [
     deskripsi: "Keramik tradisional Tuban yang terkenal hingga mancanegara dengan kualitas dan keunikan motifnya.",
     deskripsiDetail: "Industri keramik Tuban telah berkembang sejak abad ke-14. Produk keramik Tuban memiliki ciri khas pada motif dan teknik pembuatannya yang turun temurun.",
     images: [
-      "src/assets/images/oleh-oleh/keramik-tuban-1.jpg",
-      "src/assets/images/oleh-oleh/keramik-tuban-2.jpg",
-      "src/assets/images/oleh-oleh/keramik-tuban-3.jpg"
+      "/images/oleh-oleh/keramik-tuban-1.jpg",
+      "/images/oleh-oleh/keramik-tuban-2.jpg",
+      "/images/oleh-oleh/keramik-tuban-3.jpg"
     ],
     tempatBeli: [
       "Sentra Keramik Plered - Desa Plered",
@@ -46,9 +46,9 @@ export const olehOlehData: OlehOlehItem[] = [
     deskripsi: "Kerupuk rambak dengan cita rasa otentik Tuban yang crispy dan gurih, cocok sebagai oleh-oleh.",
     deskripsiDetail: "Kerupuk rambak Tuban dibuat dari kulit sapi pilihan dengan bumbu rempah tradisional. Proses pembuatannya masih menggunakan cara tradisional untuk menjaga keaslian rasa.",
     images: [
-      "src/assets/images/oleh-oleh/krupuk-rambak-1.jpg",
-      "src/assets/images/oleh-oleh/krupuk-rambak-2.jpg",
-      "src/assets/images/oleh-oleh/krupuk-rambak-3.jpg"
+      "/images/oleh-oleh/krupuk-rambak-1.jpg",
+      "/images/oleh-oleh/krupuk-rambak-2.jpg",
+      "/images/oleh-oleh/krupuk-rambak-3.jpg"
     ],
     tempatBeli: [
       "Industri Kerupuk Pak Hasan - Desa Kradenan",
@@ -62,9 +62,9 @@ export const olehOlehData: OlehOlehItem[] = [
     deskripsi: "Kain tenun tradisional dengan motif khas Tuban yang dibuat dengan teknik tenun tangan.",
     deskripsiDetail: "Tenun Tuban memiliki motif yang unik dengan perpaduan warna-warna alami. Setiap motif memiliki makna filosofis yang mendalam dalam budaya Jawa.",
     images: [
-      "src/assets/images/oleh-oleh/tenun-tradisional-1.jpg",
-      "src/assets/images/oleh-oleh/tenun-tradisional-2.jpg",
-      "src/assets/images/oleh-oleh/tenun-tradisional-3.jpg"
+      "/images/oleh-oleh/tenun-tradisional-1.jpg",
+      "/images/oleh-oleh/tenun-tradisional-2.jpg",
+      "/images/oleh-oleh/tenun-tradisional-3.jpg"
     ],
     tempatBeli: [
       "Sentra Tenun Desa Mentoso",

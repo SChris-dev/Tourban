@@ -14,9 +14,9 @@ export const kulinerData: KulinerItem[] = [
     deskripsi: "Soto khas Tuban dengan kuah bening yang segar, daging ayam empuk, dan bumbu rempah yang kaya.",
     bahanUtama: "Ayam kampung, kunyit, jahe, serai, daun salam, bawang merah, bawang putih, ketumbar",
     images: [
-      "src/assets/images/kuliner/soto-tuban-1.jpg",
-      "src/assets/images/kuliner/soto-tuban-2.jpg",
-      "src/assets/images/kuliner/soto-tuban-3.jpg"
+      "/images/kuliner/soto-tuban-1.jpg",
+      "/images/kuliner/soto-tuban-2.jpg",
+      "/images/kuliner/soto-tuban-3.jpg"
     ],
     tempatBeli: [
       "Warung Soto Bu Tini - Jl. Pahlawan No. 15",
@@ -30,9 +30,9 @@ export const kulinerData: KulinerItem[] = [
     deskripsi: "Lontong dengan kuah santan gurih, dilengkapi tahu, tempe, tauge, dan kerupuk yang renyah.",
     bahanUtama: "Lontong, santan kelapa, tahu, tempe, tauge, kerupuk, bumbu kacang",
     images: [
-      "src/assets/images/kuliner/lontong-balap-3.jpg",
-      "src/assets/images/kuliner/lontong-balap-1.jpg",
-      "src/assets/images/kuliner/lontong-balap-2.jpg",
+      "/images/kuliner/lontong-balap-3.jpg",
+      "/images/kuliner/lontong-balap-1.jpg",
+      "/images/kuliner/lontong-balap-2.jpg",
     ],
     tempatBeli: [
       "Lontong Balap Bu Sari - Jl. Veteran No. 12",
@@ -46,9 +46,9 @@ export const kulinerData: KulinerItem[] = [
     deskripsi: "Kerupuk khas Tuban yang terbuat dari kulit sapi dengan tekstur renyah dan rasa gurih yang khas.",
     bahanUtama: "Kulit sapi, garam, bumbu rempah tradisional",
     images: [
-      "src/assets/images/kuliner/kerupuk-rambak-1.jpg",
-      "src/assets/images/kuliner/kerupuk-rambak-2.jpg",
-      "src/assets/images/kuliner/kerupuk-rambak-3.jpg"
+      "/images/kuliner/kerupuk-rambak-1.jpg",
+      "/images/kuliner/kerupuk-rambak-2.jpg",
+      "/images/kuliner/kerupuk-rambak-3.jpg"
     ],
     tempatBeli: [
       "Industri Kerupuk Pak Hasan - Desa Kradenan",
@@ -62,9 +62,9 @@ export const kulinerData: KulinerItem[] = [
     deskripsi: "Rujak khas Jawa Timur dengan tambahan cingur (moncong sapi) dan bumbu petis yang gurih pedas.",
     bahanUtama: "Cingur, timun, tauge, tahu, tempe, kerupuk, bumbu petis, cabai",
     images: [
-      "src/assets/images/kuliner/rujak-cingur-1.jpg",
-      "src/assets/images/kuliner/rujak-cingur-2.jpg",
-      "src/assets/images/kuliner/rujak-cingur-3.jpg"
+      "/images/kuliner/rujak-cingur-1.jpg",
+      "/images/kuliner/rujak-cingur-2.jpg",
+      "/images/kuliner/rujak-cingur-3.jpg"
     ],
     tempatBeli: [
       "Rujak Cingur Bu Tukinem - Jl. Basuki Rahmat No. 45",
@@ -78,9 +78,9 @@ export const kulinerData: KulinerItem[] = [
     deskripsi: "Nasi dengan lauk daging sapi yang dimasak dengan bumbu rempah khas, disajikan dengan sambal dan kerupuk.",
     bahanUtama: "Nasi, daging sapi, santan, bumbu rempah, cabai, bawang merah",
     images: [
-      "src/assets/images/kuliner/nasi-krawu-1.jpg",
-      "src/assets/images/kuliner/nasi-krawu-2.jpg",
-      "src/assets/images/kuliner/nasi-krawu-3.jpg"
+      "/images/kuliner/nasi-krawu-1.jpg",
+      "/images/kuliner/nasi-krawu-2.jpg",
+      "/images/kuliner/nasi-krawu-3.jpg"
     ],
     tempatBeli: [
       "Nasi Krawu Bu Marni - Jl. Panglima Sudirman No. 20",
@@ -94,9 +94,9 @@ export const kulinerData: KulinerItem[] = [
     deskripsi: "Sate kambing dengan bumbu kacang yang khas dan daging kambing yang empuk serta tidak amis.",
     bahanUtama: "Daging kambing, bumbu kacang, kecap manis, cabai, bawang merah",
     images: [
-      "src/assets/images/kuliner/sate-kambing-2.jpg",
-      "src/assets/images/kuliner/sate-kambing-1.jpg",
-      "src/assets/images/kuliner/sate-kambing-3.jpg"
+      "/images/kuliner/sate-kambing-2.jpg",
+      "/images/kuliner/sate-kambing-1.jpg",
+      "/images/kuliner/sate-kambing-3.jpg"
     ],
     tempatBeli: [
       "Sate Kambing Pak Harto - Jl. Sunan Kalijaga No. 28",
